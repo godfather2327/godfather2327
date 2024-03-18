@@ -6,7 +6,8 @@
 
 📫 Want to collaborate on a project, discuss cybersecurity strategies, or simply geek out over the latest tech trends? Feel free to reach out via Email - harshithsai94@gmail.com or connect with me on LinkedIn - www.linkedin.com/in/harshith-sai-v-87668218b. Let's embark on a journey of innovation and security together!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=godfather2327&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godfather2327&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
