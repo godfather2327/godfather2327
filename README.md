@@ -6,6 +6,8 @@
 
 📫 Want to collaborate on a project, discuss cybersecurity strategies, or simply geek out over the latest tech trends? Feel free to reach out via Email - harshithsai94@gmail.com or connect with me on LinkedIn - www.linkedin.com/in/harshith-sai-v-87668218b. Let's embark on a journey of innovation and security together!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godfather2327)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 godfather2327/godfather2327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
