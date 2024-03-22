@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godfather2327&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Harshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=godfather2327&show_icons=true&theme=radical)
-[![Harshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=godfather2327&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=godfather2327&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
