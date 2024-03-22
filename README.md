@@ -6,11 +6,20 @@
 
 📫 Want to collaborate on a project, discuss cybersecurity strategies, or simply geek out over the latest tech trends? Feel free to reach out via Email - harshithsai94@gmail.com or connect with me on LinkedIn - www.linkedin.com/in/harshith-sai-v-87668218b. Let's embark on a journey of innovation and security together!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godfather2327&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Harshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=godfather2327&show_icons=true&theme=radical)
-[![Harshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=godfather2327&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Gihub Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=godfather2327&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godfather2327&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+![Harshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=godfather2327&show_icons=true&theme=radical)
+
+
+<!---
+[![Harshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=godfather2327&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--->
+
+## Technical Blogs
+[![Harshith Sai Medium](https://github-readme-medium.vercel.app/?username=harshithsai94)](https://medium.com/@harshtihsai94)
 <!---
 godfather2327/godfather2327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
